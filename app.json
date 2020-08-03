@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "app",
+    "name": "teste",
     "slug": "app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,10 +17,13 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.teste.teste",
+      "buildNumber": "1.0.0"
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "android": {
+      "package": "com.teste.teste",
+      "versionCode": 1
     }
   }
 }
