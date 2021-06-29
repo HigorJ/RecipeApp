@@ -1,8 +1,8 @@
-## Rich-Text - Projeto simples
+## Aplicativo de Receitas simples com Expo.
 
 - Para rodar esse projeto, clone ele com o comando:
 ```
-https://github.com/HigorJ/RecipeApp-ReactNative.git
+git clone https://github.com/HigorJ/RecipeApp-ReactNative.git
 ```
 
 - Instale as dependências com o comando (Caso já tenha o NPM instalado):
