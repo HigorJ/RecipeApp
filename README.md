@@ -21,7 +21,7 @@
   - Ao rodar o comando, você verá a seguinte tela abrir no browser:
   <center>
   
-    ![expo](doc-images/expo.png)
+  ![expo](doc-images/expo.png)
   
   </center>
 
@@ -38,7 +38,7 @@
   &nbsp;
   <center>
   
-    ![empty-menu](doc-images/empty-menu.png)
+  ![empty-menu](doc-images/empty-menu.png)
   
   </center>
 
@@ -48,7 +48,7 @@
   &nbsp;
   <center>
   
-    ![empty-recipe](doc-images/empty-recipe.png)
+  ![empty-recipe](doc-images/empty-recipe.png)
   
   </center>
 
@@ -58,7 +58,7 @@
   &nbsp;
   <center>
   
-    ![recipe](doc-images/recipe.png)
+  ![recipe](doc-images/recipe.png)
   
   </center>
 
@@ -68,7 +68,7 @@
   &nbsp;
   <center>
   
-    ![recipe](doc-images/menu.png)
+  ![recipe](doc-images/menu.png)
   
   </center>
 
@@ -78,6 +78,6 @@
   &nbsp;
   <center>
   
-    ![stored-recipe](doc-images/stored-recipe.png)
+  ![stored-recipe](doc-images/stored-recipe.png)
   
   </center>
