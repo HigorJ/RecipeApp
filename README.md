@@ -19,7 +19,11 @@
     ```
 
   - Ao rodar o comando, você verá a seguinte tela abrir no browser:
+  <center>
+  
     ![expo](doc-images/expo.png)
+  
+  </center>
 
   - Rode no dispositivo que quiser, emulador android, ios etc.
 
@@ -32,28 +36,48 @@
 
 
   &nbsp;
-  ![empty-menu](doc-images/empty-menu.png)
+  <center>
+  
+    ![empty-menu](doc-images/empty-menu.png)
+  
+  </center>
 
   - Se clicar no botão flutuando de "+", ele redirecionará você para a tela de criar uma nova receita:
 
 
   &nbsp;
-  ![empty-recipe](doc-images/empty-recipe.png)
+  <center>
+  
+    ![empty-recipe](doc-images/empty-recipe.png)
+  
+  </center>
 
   - Para adicionar um ingrediente clique no botão "+" na aba de ingredientes. O mesmo ocorre para os passos do modo de preparo e as observações. Ao concluir, a tela ficará assim:
 
 
   &nbsp;
-  ![recipe](doc-images/recipe.png)
+  <center>
+  
+    ![recipe](doc-images/recipe.png)
+  
+  </center>
 
   - Ao salvar a receita, o menu ficará assim:
 
 
   &nbsp;
-  ![recipe](doc-images/menu.png)
+  <center>
+  
+    ![recipe](doc-images/menu.png)
+  
+  </center>
 
   - E ao clicar em uma receita já criada, redirecionará para essa tela que você poderá usar para atualizar a receita ou para deletar ela:
 
 
   &nbsp;
-  ![stored-recipe](doc-images/stored-recipe.png)
+  <center>
+  
+    ![stored-recipe](doc-images/stored-recipe.png)
+  
+  </center>
